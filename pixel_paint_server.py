@@ -46,5 +46,5 @@ def paint_pixel(data):
 
     pass
 
-anvil.server.connect("3VXLGUC3VPLYMBYZ5ZNLACP2-JCMXMGJ2VZRZ3MXS")
+anvil.server.connect("<YOUR KEY HERE>")
 anvil.server.wait_forever()
