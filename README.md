@@ -1,6 +1,8 @@
 # pixel_paint_anvil
 A tool for remotely creating Sense HAT 8x8 pixel drawings using Anvil.
 
+![Imgur](https://i.imgur.com/QdMGb4t.png)
+
 ## Usage
 
 This tool is meant to be used with a client Anvil app. Copy the app from Anvil here: [PixelPaint](https://anvil.works/build#clone:JCMXMGJ2VZRZ3MXS=ZVD67MYOZH3SL7YHYGCXV2LG)
