@@ -1,5 +1,5 @@
 # pixel_paint_anvil
-A tool for remotely creating Sense HAT 8x8 pixel drawings using Anvil.
+A tool for remotely creating Sense HAT 8x8 pixel drawings using Anvil, used as a tool in Code Next's Raspberry Pi curriculum. 
 
 ![Imgur](https://i.imgur.com/QdMGb4t.png)
 
