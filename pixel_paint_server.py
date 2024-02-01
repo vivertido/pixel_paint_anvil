@@ -1,5 +1,5 @@
 import anvil.server
-from sense_hat import SenseHat
+from sense_emu import SenseHat
 from time import sleep
 import datetime
 
@@ -40,5 +40,5 @@ def paint_pixel(data):
     sense.set_pixel(x, y, color)
     pass
 
-anvil.server.connect("<YOUR KEY HERE>")
+anvil.server.connect("3VXLGUC3VPLYMBYZ5ZNLACP2-JCMXMGJ2VZRZ3MXS")
 anvil.server.wait_forever()
